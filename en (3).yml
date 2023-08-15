@@ -1,0 +1,162 @@
+contacts: Contact
+status: Status
+blog: Blog
+enterprise: Enterprise KB
+crowdin_kb: Crowdin KB
+dev_portal: Developer Portal
+forum: Community
+store: Store
+crowdin_for_developers: Crowdin for developers
+crowdin_search_placeholder: Search documentation
+crowdin: Crowdin
+crowdin_lmp: Crowdin — Localization Management Platform
+top_s: Popular articles
+no_results: No results found
+search: Search
+search_title: Search on Crowdin Developer Portal
+navigation: Navigation
+toggle_navigation: Toggle Navigation
+close: Close
+sorry: Sorry, this page does not exist
+home: Home
+page_not_found: Page not found
+crowdin_documentation: Crowdin Developer Portal
+crowdin_description: Crowdin Developer Portal. Crowdin is the localization management platform for mobile apps, web, desktop software and related assets.
+more_n: "%d more"
+version: Version
+beta: Beta
+cookies_consent: We use cookies to learn how to communicate better with our website visitors and share the most relevant information. Learn more about how we use cookies in our Privacy Policy.
+cookies_got_it: Got it!
+cookies_learn_more: Learn more
+contents: In This Article
+back_to_kb: Back to Knowledge Base
+kb: Knowledge Base
+crowdin_store: Crowdin Store
+article_is_helpful: Was this article helpful?
+thanks_for_feedback: Thanks for your feedback!
+sorry_how_improve_that: Sorry about that. How can we improve it?
+select_and_translate: Select text on the page to start translating
+select_and_translate_disabled: Translation mode has been disabled
+intro_video: Watch the Intro
+introduction_to_portal: Introduction to the Developer Portal
+helpful:
+  submit: Submit
+  cancel: Cancel
+  'yes': 'Yes'
+  'no': 'No'
+
+titles:
+  api_v2: Crowdin API v2
+  api_clients: Crowdin API Clients
+  error_codes: Error Codes
+  language_codes: Language Codes
+  api_e: API v2 Reference (Enterprise)
+  api_e2: API v2 Reference
+  api: API
+  sdk_ios: iOS SDK
+  sdk_android: Android SDK
+  visual_studio_code: Plugin for Visual Studio Code
+  android_studio: Plugin for Android Studio
+  pseudolocalization: Pseudolocalization
+  in_context_setup: In-Context Setup
+  personal_access_tokens: Personal Access Tokens
+  creating_oauth_app: Creating an OAuth App
+  authorizing_oauth_apps: Authorizing OAuth Apps
+  understanding_scopes: Understanding Scopes
+  organization_settings: Organization Settings
+  android_ios_localization: Android and iOS Apps Localization
+  cli_tool: Console Client (CLI)
+  using_cli_in_ci: Using CLI in CI
+  configuration_file: Configuration File
+  github_crowdin_action: GitHub Crowdin Action
+  crowdin_apps_quick_start: Quick Start
+  crowdin_apps_introduction: Welcome
+  crowdin_apps_app_descriptor: App Descriptor
+  crowdin_apps_modules_ui: UI Modules Overview
+  crowdin_apps_modules_file_processing: File Processing Modules Overview
+  crowdin_apps_installation: App Installation
+  crowdin_apps_about: About Crowdin Apps
+  custom_code: Custom Code
+  crowdin_apps_security: Security for Crowdin Apps
+  crowdin_apps_js: Crowdin Apps JS
+  crowdin_apps_ui_kit: User Interface
+  crowdin_apps_releasing: Releasing Crowdin Apps
+  crowdin_apps_monetization: Crowdin Apps Monetization
+  crowdin_apps_publishing: Publishing Your App
+  crowdin_apps_promoting: Crowdin Apps Promoting
+  ip_addresses: IP Addresses and Domains
+  graphql_api: GraphQL API
+  croql: Crowdin Query Language (CroQL)
+  authentication_settings: Authentication Settings
+  custom_notifications: Custom Notifications
+  custom_mt: Custom MT App
+  expression_syntax_elements: Expression Syntax Elements
+  webhooks: Webhook Events
+  project_integrations_module: Integrations Module
+  project_tools_module: Tools Module
+  project_reports_module: Reports Module
+  project_menu_module: Project Menu Module
+  project_menu_crowdsource_module: Project Menu (Crowdsource View)
+  editor_right_panel_module: Editor Right Panel Module
+  editor_translations_panel_module: Editor Translations Panel Module
+  organization_menu_module: Organization Menu Module
+  organization_menu_crowdsource_module: Organization Menu (Crowdsource View)
+  profile_resources_menu_module: Resources Module
+  custom_mt_module: Custom MT (Machine Translation) Module
+  custom_file_format_module: Custom File Format Module
+  file_pre_import_processing_module: File Pre-Import Processing Module
+  file_post_import_processing_module: File Post-Import Processing Module
+  file_pre_export_processing_module: File Pre-Export Processing Module
+  file_post_export_processing_module: File Post-Export Processing Module
+  context_menu_module: Context Menu Module
+  modal_module: Modal Module
+  sdk_ota_web: Website JS SDK
+  sdk_ota_flutter: Flutter SDK
+  sdk_ota_xamarin: Xamarin Forms SDK
+  shopify_apps_localization: How to Translate Your Shopify App with Crowdin
+  android_xml: Android XML
+  chrome_json: Chrome JSON
+  json: JSON
+  po_gettext: PO Gettext
+  qt_ts: QT TS
+  xliff: XLIFF 1.2
+  xliff_2: XLIFF 2.0  
+  strings: iOS Strings
+  ini: INI
+  joomla_ini: Joomla INI
+  yaml: YAML
+  resx: RESX
+  java_properties: Java Properties
+  xlsx_excel: Excel XLSX
+  csv: CSV
+  html: HTML
+  docx: DOCX
+  adoc: ADOC
+  i18next_json: i18next JSON    
+  stringsdict: Stringsdict  
+
+structure:
+  webhooks: Webhooks
+  introduction: Introduction
+  essentials: Essentials
+  modules_ui: UI Modules
+  modules_file_processing: File Processing Modules
+  capabilities: Capabilities
+  dev_tools: Dev Tools
+  ide_plugins: IDE Plugins
+  ota_sdk: Content Delivery SDK
+  cli: CLI & GitHub Action
+  in_context: In-Context Localization
+  other: Other
+  security: Security
+  publishing: Publishing
+  site_policy: Privacy & Terms
+  guides: Guides
+  api: REST API
+  graphql_api: GraphQL API
+  oauth_apps: OAuth Apps
+  authentication_security: Authentication and Security
+  scopes: Scopes
+  crowdin_apps: Crowdin Apps
+  ip_addresses: IP Addresses and Domains
+  file_formats: File Formats  
