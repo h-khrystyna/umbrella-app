@@ -1,6 +1,6 @@
-# Umbrella App README
+# Application Umbrella README
 
-The Umbrella App is a sleek and intuitive application designed to provide users with real-time weather forecasts and smart suggestions to help them stay prepared for any weather condition. Whether it's a sunny day, a rainy afternoon, or a snowy evening, the Umbrella App has got you covered!
+L'application Umbrella est une application élégante et intuitive conçue pour fournir aux utilisateurs des prévisions météorologiques en temps réel et des suggestions intelligentes pour les aider à se préparer à toutes les conditions météorologiques. Qu'il s'agisse d'une journée ensoleillée, d'un après-midi pluvieux ou d'une soirée enneigée, l'application Umbrella vous couvre !
 
 ## Table of Contents
 
@@ -21,14 +21,14 @@ The Umbrella App is a sleek and intuitive application designed to provide users 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/umbrella-app.git`
-2. Navigate to the project directory: `cd umbrella-app`
-3. Install dependencies: `npm install`
+1.
+2.
+3.
 4. Configure API Keys:
    - Rename `.env.example` to `.env`
    - Obtain API keys from [Weather API Provider](https://weatherapi.com) and [Map Service Provider](https://mapsapi.com)
    - Replace `YOUR_WEATHER_API_KEY` and `YOUR_MAPS_API_KEY` in the `.env` file with your actual API keys.
-5. Run the app: `npm start`
+5.
 
 ## Usage
 
@@ -41,18 +41,18 @@ The Umbrella App is a sleek and intuitive application designed to provide users 
 
 ## Technologies Used
 
-- React: Frontend library for building user interfaces.
-- Redux: State management for React applications.
-- Axios: Promise-based HTTP client for making API requests.
-- Leaflet: JavaScript library for interactive maps.
-- CSS Modules: Stylesheet organization and encapsulation.
+-
+-
+-
+-
+-
 
 ## Contributing
 
 Contributions are welcome! Here's how you can get involved:
 
 1. Fork the repository.
-2. Create a new branch for your feature: `git checkout -b feature-new-feature`.
-3. Make your changes and commit them: `git commit -m "Add new feature"`.
-4. Push to the branch: `git push origin feature-new-feature`.
+2.
+3.
+4.
 5. Create a pull request detailing your changes.
