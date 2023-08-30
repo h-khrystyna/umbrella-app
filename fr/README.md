@@ -2,7 +2,7 @@
 
 L'application Umbrella est une application élégante et intuitive conçue pour fournir aux utilisateurs des prévisions météorologiques en temps réel et des suggestions intelligentes pour les aider à se préparer à toutes les conditions météorologiques. Qu'il s'agisse d'une journée ensoleillée, d'un après-midi pluvieux ou d'une soirée enneigée, l'application Umbrella vous couvre !
 
-## Table of Contents
+## Table des matières
 
 - [Features](#features)
 - [Installation](#installation)
