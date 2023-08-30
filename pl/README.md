@@ -2,7 +2,7 @@
 
 The Umbrella App is a sleek and intuitive application designed to provide users with real-time weather forecasts and smart suggestions to help them stay prepared for any weather condition. Whether it's a sunny day, a rainy afternoon, or a snowy evening, the Umbrella App has got you covered!
 
-## Table of Contents
+## Spis treści
 
 - [Features](#features)
 - [Installation](#installation)
