@@ -4,7 +4,7 @@ L'application Umbrella est une application élégante et intuitive conçue pour 
 
 ## Table des matières
 
-- [Features](#features)
+- [Fonctionnalités](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
