@@ -4,7 +4,7 @@ The Umbrella App is a sleek and intuitive application designed to provide users 
 
 ## Spis treści
 
-- [Features](#features)
+- [Funkcje](#features)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
